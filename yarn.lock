@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@verdaccio/file-locking@^0.0.3":
+"@verdaccio/file-locking@0.0.3":
   version "0.0.3"
   resolved "https://registry.npmjs.org/@verdaccio/file-locking/-/file-locking-0.0.3.tgz#32d3702ff5184d1d3893f0f1d47629ad33d1c113"
   dependencies:
@@ -10,7 +10,7 @@
     lockfile "1.0.3"
     lodash "4.17.4"
 
-"@verdaccio/streams@^0.0.2":
+"@verdaccio/streams@0.0.2":
   version "0.0.2"
   resolved "https://registry.npmjs.org/@verdaccio/streams/-/streams-0.0.2.tgz#72cd65449e657b462a1ca094f663cad9ea872427"
 
